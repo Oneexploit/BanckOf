@@ -1,7 +1,7 @@
 # 🚀 Banckof - AI Stock Trading Platform
 
 <div align="center">
-  <img src="docs/banner.png" alt="Banckof Banner" width="800">
+  <img src="banner.png" alt="Banckof Banner" width="800">
   <br/><br/>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
